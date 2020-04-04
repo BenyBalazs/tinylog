@@ -1,0 +1,60 @@
+2020-04-04 13:11:19 [main] pkg.Main.main()
+ERROR: This is an error massage!
+2020-04-04 13:11:19 [main] pkg.Main.main()
+WARN: This is a warn massage!
+2020-04-04 13:11:19 [main] pkg.Main.main()
+INFO: This is an info massage!
+2020-04-04 13:11:19 [main] pkg.Main.main()
+DEBUG: This is a debug massage!
+2020-04-04 13:11:19 [main] pkg.Main.main()
+TRACE: This is a trace massage!
+2020-04-04 13:11:19 [main] pkg.Main.main()
+INFO: User's name is Balázs
+2020-04-04 13:11:19 [main] pkg.Main.main()
+ERROR: Something went wrong!: java.lang.RuntimeException: Oops
+	at pkg.Main.main(Main.java:15)
+2020-04-04 13:12:11 [main] pkg.Main.main()
+ERROR: This is an error massage!
+2020-04-04 13:12:11 [main] pkg.Main.main()
+WARN: This is a warn massage!
+2020-04-04 13:12:11 [main] pkg.Main.main()
+INFO: This is an info massage!
+2020-04-04 13:12:11 [main] pkg.Main.main()
+DEBUG: This is a debug massage!
+2020-04-04 13:12:11 [main] pkg.Main.main()
+TRACE: This is a trace massage!
+2020-04-04 13:12:11 [main] pkg.Main.main()
+INFO: User's name is Balázs
+2020-04-04 13:12:11 [main] pkg.Main.main()
+ERROR: Something went wrong!: java.lang.RuntimeException: Oops
+	at pkg.Main.main(Main.java:15)
+2020-04-04 13:12:58 [main] pkg.Main.main()
+ERROR: This is an error massage!
+2020-04-04 13:12:58 [main] pkg.Main.main()
+WARN: This is a warn massage!
+2020-04-04 13:12:58 [main] pkg.Main.main()
+INFO: This is an info massage!
+2020-04-04 13:12:58 [main] pkg.Main.main()
+DEBUG: This is a debug massage!
+2020-04-04 13:12:58 [main] pkg.Main.main()
+TRACE: This is a trace massage!
+2020-04-04 13:12:58 [main] pkg.Main.main()
+INFO: User's name is Balázs
+2020-04-04 13:12:58 [main] pkg.Main.main()
+ERROR: Something went wrong!: java.lang.RuntimeException: Oops
+	at pkg.Main.main(Main.java:15)
+2020-04-04 13:14:13 [main] pkg.Main.main()
+ERROR: This is an error massage!
+2020-04-04 13:14:13 [main] pkg.Main.main()
+WARN: This is a warn massage!
+2020-04-04 13:14:13 [main] pkg.Main.main()
+INFO: This is an info massage!
+2020-04-04 13:14:13 [main] pkg.Main.main()
+DEBUG: This is a debug massage!
+2020-04-04 13:14:13 [main] pkg.Main.main()
+TRACE: This is a trace massage!
+2020-04-04 13:14:13 [main] pkg.Main.main()
+INFO: User's name is Balázs
+2020-04-04 13:14:13 [main] pkg.Main.main()
+ERROR: Something went wrong!: java.lang.RuntimeException: Oops
+	at pkg.Main.main(Main.java:15)
